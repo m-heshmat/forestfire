@@ -1,0 +1,7 @@
+NTUSER.DAT
+NTUSER.*
+*.dat
+*.log
+*.lock
+*.tmp
+Thumbs.db
